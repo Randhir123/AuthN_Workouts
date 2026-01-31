@@ -13,3 +13,4 @@ We use **IBM Security Verify** because it mirrors the landscape many teams opera
 | 15 | [Minting the First Token](workout15/README.md) | Request a client_credentials token and inspect its claims. |
 | 16 | [Verifying an Opaque Token via Introspection](workout16/README.md) | Call the introspection endpoint to validate reference tokens. |
 | 17 | [Breaking Trust Intentionally](workout17/README.md) | Deliberately cause introspection failures and observe responses. |
+| 18 | [Service-to-Service Trust Without Identity](workout18/README.md) | Service A fetches a token, Service B verifies via Verify introspection. |
