@@ -11,6 +11,13 @@ __pycache__/
 .env
 .env.*
 
+# Terraform
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform.tfvars.json
+.terraform/
+
 # Node / JS
 node_modules/
 *.log
